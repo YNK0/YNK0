@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩‍💻 I'm currently studying systems engineering<br>👨‍💼  I'm looking for my first job<br>📝 Always learning<br>🚶  Front End Jr Dev<br><br>Tab, MX<br>
+👩‍💻 I'm currently studying systems engineering<br>👨‍💼  📝 Always trying to learn<br>🚶  Web Dev<br><br>Tab, MX<br>
 
 
 ## 🌐 Socials:
